@@ -11,4 +11,11 @@
         - Stufe
         - Verfolgen?
         - Besonderheiten
+        - Schätze
+        - Stufen
 ```
+- Flüche
+- Monster
+- Rüstungsteile
+- Klassen
+- Rassen
